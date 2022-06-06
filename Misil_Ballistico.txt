@@ -1,0 +1,8 @@
+9: ANOVA 1 way muestras independientes
+10: ANOVA 1 way muestras correlacionadas
+11: Inf no paramétrica con medianas (prueba de Wilson)
+12: Remuestreo (Bootstrapping, Monte Carlo)
+13: Otras alternativas para datos problematicos (transformacion lineal, log,
+Tukey, Metodos Robustos)
+14: Regresion Lineal
+15: Regresion Lineal Multiple
